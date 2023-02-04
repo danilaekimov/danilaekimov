@@ -4,7 +4,7 @@
 
 ## 📫 Ссылки на соц. сети
 
-✉️ [Email](mailto:danya.ekmov0822@gmail.com) | VK: [**VK**](https://vk.com/oooekimof)  |  Telegram: [**Telegram**](@j7DICE)
+✉️ [Электронаая почта](mailto:danya.ekmov0822@gmail.com) | VK: [**VK**](https://vk.com/oooekimof)  |  Telegram: [**Telegram**](https://t.me/j7DICE)
 
 ## 💡 Проекты над которыми я успел поработать
 - Яндекс.Музыка
