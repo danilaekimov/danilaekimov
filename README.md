@@ -10,8 +10,7 @@
 Контакты:
 * Почта: [danya.ekmov0822@yandex.ru](mailto:danya.ekmov0822@yandex.ru)
 * Telegram: [@j7DICE](https://t.me/j7DICE)
-
-[Резюме на hh](https://spb.hh.ru/resume/79150700ff0bb3fff90039ed1f31507552496f?print=true)
+* Резюме на hh: [Резюме](https://spb.hh.ru/resume/79150700ff0bb3fff90039ed1f31507552496f?print=true)
 
 Используемые технологии: Python, NumPy, Sklearn, Seaborn, PyTorch, Matplotlib, Plotly, CatBoost, XGBoost, LightGBM, SQL.
 
